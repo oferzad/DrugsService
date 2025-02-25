@@ -1,0 +1,18 @@
+﻿POST /GovServiceList/IDRServer/SearchByName HTTP/1.1
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: he-IL,he;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: keep-alive
+Content-Length: 90
+Content-Type: application/json
+Cookie: TS00000000076=0881f057dfab2800e90bdf613ca4ef5dfcda016a2cc04b3c258fa01e7ec473d54ccf1fab7b20c43c1f400feb7c3ab0d50880f710a809d0004ba73b0b31485b25333f4b2f1688f398cac4d787c858763235b295a99b973349c99f025fa020dcaa069fb70ffb4f4bb0c4a0dc46ed8116f66025241ccf345e44f23b6b54a742a7d06d1b9e07365e66bae6de246cae898bddfc1725eb7f6a8f54fadf2cebfdc2f33a3201013f4f0d1b819e5b3dd9ccfdcb7ff3e593a470b9f840a403fc8e9c7ec65520bde6371037648d0352846da58ae586dcbf7410a5de44b1df1522190b636733e4922f4abedf47c8e23285e8d5dfd18ed2cb0e85919bd2f56ea7b69e627f93cee8b398ec0d0c239c; TSPD_101_DID=0881f057dfab2800e90bdf613ca4ef5dfcda016a2cc04b3c258fa01e7ec473d54ccf1fab7b20c43c1f400feb7c3ab0d50880f710a8063800db17d39959dc7614eac274700bb3e10c04722e37a93ddecef19ec6328e1b00c346167615a470ba47365c28e176283d2e602e9d6f871207d6; ARRAffinity=fc58c7aa9bb2f4a711b1728f7aceaf5e36753b4711ea20a1cf018ca528cb79ef; ARRAffinitySameSite=fc58c7aa9bb2f4a711b1728f7aceaf5e36753b4711ea20a1cf018ca528cb79ef; TS014fdbd8028=01b6d10100603650e5745f9d2410297555c2e28fe93de264696d8e77a31d3b5901f15c75f51a1cb427bcd8e4940e2ad40a0bd15997; _gid=GA1.3.1687763268.1740505217; _gat_UA-72144815-4=1; TS014fdbd8=01baf96815749a88e1115ab80ad22c5eaa53e5b703bd49ab4dac83bd6f62809e7aa847203426290be351ccc7c8a45107981bcaa1a1a3700e431e9870b2b6e42a23cfcefa735d55ffb1be38787a45bdefb4c69c916e; _ga=GA1.3.109020429.1740505217; TS679c52dc027=0881f057dfab2000a3ca526d9ef8bfc7f2f302988d8fa03ffeb5d70b553f93b2f3479fa275750d030828a48a9411300003af33891a353b79f199b7430ce4b75fb8fd4910320340b921f5b38e7517b8171eabc616db10465f506c0fd76d7325f1; _ga_43BDQ30K23=GS1.1.1740505217.1.1.1740505547.0.0.0
+Host: israeldrugs.health.gov.il
+Origin: https://israeldrugs.health.gov.il
+Referer: https://israeldrugs.health.gov.il/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+sec-ch-ua: "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"

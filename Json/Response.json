@@ -1,0 +1,520 @@
+{
+  "hasNonSubsDrugs": null,
+  "results": [
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "020 16 20534 00",
+      "dragRegDate": "31.07.2024",
+      "dragHebName": "אקמול",
+      "dosageForm": "טבליה",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOL",
+      "activeComponents": [
+        {
+          "componentName": "PARACETAMOL 500  MG "
+        }
+      ],
+      "secondarySymptom": "שיכוך כאבים והורדת חום",
+      "packages": [
+        "20 TABLETS",
+        "100 TABLETS"
+      ],
+      "packagesPrices": [
+        "14.12",
+        "0"
+      ],
+      "customerPrice": "14.12",
+      "singlePrice": "0.706",
+      "images": [
+        {
+          "url": "Rishum_16_344623620.jpg"
+        }
+      ],
+      "health": true,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "7290000800028",
+      "indications": "Relief of pain and fever of different etiologies such as headache, toothache, colds, influenza, rheumatic pain and dysmenorrhea.",
+      "activeComponentsDisplayName": "PARACETAMOL 500  MG ",
+      "activeComponentsCompareName": "PARACETAMOL"
+    },
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "128 74 25337 08",
+      "dragRegDate": "31.03.2023",
+      "dragHebName": "אקמול",
+      "dosageForm": "קפליות",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOL",
+      "activeComponents": [
+        {
+          "componentName": "PARACETAMOL 500  MG "
+        }
+      ],
+      "secondarySymptom": null,
+      "packages": [
+        "10 CAPLETS",
+        "14 CAPLETS",
+        "15 CAPLETS",
+        "16 CAPLETS",
+        "20 CAPLETS",
+        "7 CAPLETS",
+        "42 CAPLETS",
+        "50 CAPLETS",
+        "21 CAPLETS",
+        "50 CAPLETS",
+        "16 CAPLETS"
+      ],
+      "packagesPrices": [
+        "0",
+        "15.97",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "40.24",
+        "18.01",
+        "40.24",
+        "0"
+      ],
+      "customerPrice": "40.24",
+      "singlePrice": "1.14071",
+      "images": [
+        {
+          "url": "Rishum_15_245353720.jpg"
+        },
+        {
+          "url": "Rishum_10_408784919.jpg"
+        },
+        {
+          "url": "Rishum_10_408784319.jpg"
+        },
+        {
+          "url": "Rishum_9_406611619.jpg"
+        },
+        {
+          "url": "Rishum_9_406610819.jpg"
+        }
+      ],
+      "health": true,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "7290000801476 7290000801483 7-290008-097758 7290000803234 7290008094047 7290000801483",
+      "indications": "Relief of  pain and fever of different etiologies such as headache, toothache, colds, influenza, rheumatic pain and dysmenorrhea.",
+      "activeComponentsDisplayName": "PARACETAMOL 500  MG ",
+      "activeComponentsCompareName": "PARACETAMOL"
+    },
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "176 60 36645 99",
+      "dragRegDate": "05.06.2024",
+      "dragHebName": "אקמול ® טבע טבליות",
+      "dosageForm": "טבליה",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOL ® TEVA TABLETS",
+      "activeComponents": [
+        {
+          "componentName": "PARACETAMOL 500  MG "
+        }
+      ],
+      "secondarySymptom": null,
+      "packages": [
+        "10 TABLETS",
+        "20 TABLETS",
+        "30 TABLETS",
+        "60 TABLETS"
+      ],
+      "packagesPrices": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "customerPrice": "0",
+      "singlePrice": "0",
+      "images": [],
+      "health": false,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "",
+      "indications": "Relief of pain and fever of different etiologies such as headache, toothache, colds, influenza, rheumatic pain and dysmenorrhea.",
+      "activeComponentsDisplayName": "PARACETAMOL 500  MG ",
+      "activeComponentsCompareName": "PARACETAMOL"
+    },
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "176 61 37219 99",
+      "dragRegDate": "05.06.2024",
+      "dragHebName": "אקמול טבע קפליות",
+      "dosageForm": "קפליות",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOL TEVA CAPLETS ",
+      "activeComponents": [
+        {
+          "componentName": "PARACETAMOL 500  MG "
+        }
+      ],
+      "secondarySymptom": null,
+      "packages": [
+        "20 CAPLETS",
+        "30 CAPLETS",
+        "40 CAPLETS",
+        "50 CAPLETS",
+        "60 CAPLETS",
+        "70 CAPLETS",
+        "10 CAPLETS"
+      ],
+      "packagesPrices": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "customerPrice": "0",
+      "singlePrice": "0",
+      "images": [],
+      "health": false,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "",
+      "indications": "Relief of fever and pain of different etiologies such as headache, toothache, colds, influenza, rheumatic pain and dysmenorrhea.",
+      "activeComponentsDisplayName": "PARACETAMOL 500  MG ",
+      "activeComponentsCompareName": "PARACETAMOL"
+    },
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "131 35 30995 00",
+      "dragRegDate": "31.07.2024",
+      "dragHebName": "אקמול פוקוס",
+      "dosageForm": "קפליות",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOL FOCUS",
+      "activeComponents": [
+        {
+          "componentName": "ACETYLSALICYLIC ACID 250   MG "
+        },
+        {
+          "componentName": "PARACETAMOL 250   MG "
+        },
+        {
+          "componentName": "CAFFEINE 65   MG "
+        }
+      ],
+      "secondarySymptom": "לשיכוך כאבים כגון מיגרנה וכאבי מחזור",
+      "packages": [
+        "30 CAPLETS",
+        "50 CAPLETS"
+      ],
+      "packagesPrices": [
+        "38.18",
+        "58.5"
+      ],
+      "customerPrice": "58.5",
+      "singlePrice": "1.27267",
+      "images": [
+        {
+          "url": "Rishum01_17_260694724.jpg"
+        },
+        {
+          "url": "Rishum01_16_210004824.jpg"
+        }
+      ],
+      "health": false,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "7290000803913 7290102063611",
+      "indications": "For temporary relief of the pain of headache, mild to moderate pain associated with migraine headache,  pain of menstrual descomfort and pain accompanied by fever.",
+      "activeComponentsDisplayName": "ACETYLSALICYLIC ACID 250   MG , PARACETAMOL 250   MG , CAFFEINE 65   MG ",
+      "activeComponentsCompareName": "ACETYLSALICYLIC ACID,PARACETAMOL,CAFFEINE"
+    },
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "136 49 31130 14",
+      "dragRegDate": "28.02.2022",
+      "dragHebName": "אקמול צינון ושפעת יום",
+      "dosageForm": "קפליות",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOL TSINUN & SHAPA'AT DAY",
+      "activeComponents": [
+        {
+          "componentName": "PARACETAMOL 500  MG "
+        },
+        {
+          "componentName": "PSEUDOEPHEDRINE HYDROCHLORIDE 30  MG "
+        },
+        {
+          "componentName": "DEXTROMETHORPHAN HYDROBROMIDE 15  MG "
+        }
+      ],
+      "secondarySymptom": "תכשיר משולב לטיפול בכאבים גודש באף שיעול וחום",
+      "packages": [
+        "21 CAPLETS",
+        "35 CAPLETS"
+      ],
+      "packagesPrices": [
+        "0",
+        "0"
+      ],
+      "customerPrice": "0",
+      "singlePrice": "0",
+      "images": [
+        {
+          "url": "Rishum01_20_29489725.jpg"
+        },
+        {
+          "url": "Rishum01_20_743096824.jpg"
+        }
+      ],
+      "health": false,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "7290000801865",
+      "indications": "For the relief of cold, cough and nasal congestion associated with fever and pain, for day care.",
+      "activeComponentsDisplayName": "PARACETAMOL 500  MG , PSEUDOEPHEDRINE HYDROCHLORIDE 30  MG , DEXTROMETHORPHAN HYDROBROMIDE 15  MG ",
+      "activeComponentsCompareName": "PARACETAMOL,PSEUDOEPHEDRINE HYDROCHLORIDE,DEXTROMETHORPHAN HYDROBROMIDE"
+    },
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "136 48 31129 14",
+      "dragRegDate": "28.02.2022",
+      "dragHebName": "אקמול צינון ושפעת לילה",
+      "dosageForm": "קפליות",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOL TSINUN & SHAPA'AT NIGHT",
+      "activeComponents": [
+        {
+          "componentName": "PARACETAMOL 500  MG "
+        },
+        {
+          "componentName": "CHLORPHENIRAMINE MALEATE 2  MG "
+        },
+        {
+          "componentName": "PSEUDOEPHEDRINE HYDROCHLORIDE 30  MG "
+        },
+        {
+          "componentName": "DEXTROMETHORPHAN HYDROBROMIDE 15  MG "
+        }
+      ],
+      "secondarySymptom": "תכשיר משולב לטיפול בכאבים גודש באף שיעול וחום",
+      "packages": [
+        "14 CAPLETS"
+      ],
+      "packagesPrices": [
+        "0"
+      ],
+      "customerPrice": "0",
+      "singlePrice": "0",
+      "images": [
+        {
+          "url": "Rishum01_20_29490125.jpg"
+        },
+        {
+          "url": "Rishum01_20_743122424.jpg"
+        }
+      ],
+      "health": false,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "7290000801889",
+      "indications": "For the relief of cold, cough and nasal congestion associated with fever and pain, for night care.",
+      "activeComponentsDisplayName": "PARACETAMOL 500  MG , CHLORPHENIRAMINE MALEATE 2  MG , PSEUDOEPHEDRINE HYDROCHLORIDE 30  MG , DEXTROMETHORPHAN HYDROBROMIDE 15  MG ",
+      "activeComponentsCompareName": "PARACETAMOL,CHLORPHENIRAMINE MALEATE,PSEUDOEPHEDRINE HYDROCHLORIDE,DEXTROMETHORPHAN HYDROBROMIDE"
+    },
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "125 99 30511 14",
+      "dragRegDate": "31.07.2022",
+      "dragHebName": "אקמול צינון ליקוויג'ל ליום",
+      "dosageForm": "קפסולות ממולאות נוזל",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOL TSINUN LIQUIGEL DAY",
+      "activeComponents": [
+        {
+          "componentName": "PARACETAMOL 250  MG "
+        },
+        {
+          "componentName": "PSEUDOEPHEDRINE AS HYDROCHLORIDE 30  MG "
+        }
+      ],
+      "secondarySymptom": null,
+      "packages": [
+        "30 CAPSULES"
+      ],
+      "packagesPrices": [
+        "34.7"
+      ],
+      "customerPrice": "34.7",
+      "singlePrice": "1.15667",
+      "images": [],
+      "health": false,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "7290008093514",
+      "indications": "For the relief of common cold and nasal congestion associated with fever and pain. Day care medicine.",
+      "activeComponentsDisplayName": "PARACETAMOL 250  MG , PSEUDOEPHEDRINE AS HYDROCHLORIDE 30  MG ",
+      "activeComponentsCompareName": "PARACETAMOL,PSEUDOEPHEDRINE AS HYDROCHLORIDE"
+    },
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "125 98 30510 15",
+      "dragRegDate": "31.07.2022",
+      "dragHebName": "אקמול צינון ליקוויג'ל לילה",
+      "dosageForm": "קפסולות ממולאות נוזל",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOL TSINUN LIQUIGEL NIGHT",
+      "activeComponents": [
+        {
+          "componentName": "PARACETAMOL 250  MG "
+        },
+        {
+          "componentName": "PSEUDOEPHEDRINE AS HYDROCHLORIDE 30  MG "
+        },
+        {
+          "componentName": "CHLORPHENIRAMINE MALEATE 2  MG "
+        }
+      ],
+      "secondarySymptom": null,
+      "packages": [
+        "10 CAPSULES"
+      ],
+      "packagesPrices": [
+        "11.55"
+      ],
+      "customerPrice": "11.55",
+      "singlePrice": "1.155",
+      "images": [
+        {
+          "url": "Rishum_14_170782020.jpg"
+        }
+      ],
+      "health": false,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "7290008001724",
+      "indications": "For the relief of common cold and nasal congestion associated with fever and pain. Night care medicine.",
+      "activeComponentsDisplayName": "PARACETAMOL 250  MG , PSEUDOEPHEDRINE AS HYDROCHLORIDE 30  MG , CHLORPHENIRAMINE MALEATE 2  MG ",
+      "activeComponentsCompareName": "PARACETAMOL,PSEUDOEPHEDRINE AS HYDROCHLORIDE,CHLORPHENIRAMINE MALEATE"
+    },
+    {
+      "dbVersiob": "5.14",
+      "dragRegNum": "140 18 31762 00",
+      "dragRegDate": "29.02.2024",
+      "dragHebName": "אקמולי ® פורטה 50 מ\"ג/מ\"ל סירופ בטעם תות שדה",
+      "dosageForm": "סירופ",
+      "bitulDate": "01/01/1900",
+      "iscanceled": false,
+      "prescription": false,
+      "usageForm": "פומי",
+      "usageList": [
+        "פומי"
+      ],
+      "dragEnName": "ACAMOLI ® FORTE 50 MG/ML SYRUP STRAWBERRY FLAVOUR",
+      "activeComponents": [
+        {
+          "componentName": "PARACETAMOL 50  MG / 1  ML"
+        }
+      ],
+      "secondarySymptom": "שיכוך כאבים והורדת חום לילדים",
+      "packages": [
+        "50  ML",
+        "100  ML"
+      ],
+      "packagesPrices": [
+        "0",
+        "35.1"
+      ],
+      "customerPrice": "35.1",
+      "singlePrice": "0.351",
+      "images": [
+        {
+          "url": "Rishum01_20_743144624.jpeg"
+        }
+      ],
+      "health": true,
+      "route": "פומי",
+      "pages": 2,
+      "results": 13,
+      "dragRegOwner": "TEVA ISRAEL LTD",
+      "barcodes": "7291064690433",
+      "indications": "Analgesic, antipyretic.",
+      "activeComponentsDisplayName": "PARACETAMOL 50  MG / 1  ML",
+      "activeComponentsCompareName": "PARACETAMOL"
+    }
+  ]
+}
