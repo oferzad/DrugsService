@@ -1,5 +1,6 @@
 ﻿using DrugsService.Serviices;
 using System.Dynamic;
+using System.Text.Json;
 namespace DrugsService
 {
 
@@ -16,6 +17,11 @@ namespace DrugsService
             input.TryAdd("orderBy", 0);
 
             ExpandoObject result = api.SearchByName(input).Result;
+            dynamic test = result;
+            JsonElement test1 = test.results[0];
+            dynamic json = JsonSerializer.Deserialize<ExpandoObject>(test1);
+            string dragEnName = JsonSerializer.Deserialize<string>(json.dragEnName);
+
             if (result != null)
             {
                 foreach (var item in result)
